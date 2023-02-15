@@ -19,6 +19,7 @@
     <system id="GRADLE">
       <state>
         <projects_view>
+          <option name="showInheritedTasks" value="false" />
           <tree_state>
             <expand>
               <path>
@@ -35,9 +36,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
         <option value="Class" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -60,7 +62,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "/Users/doyeon/Desktop/item-service",
+    "last_opened_file_path": "/Users/doyeon/Desktop/item-service/src/main/resources/templates/basic",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +74,10 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/basic" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -79,7 +85,7 @@
       <recent name="hello.itemservice.domain.item" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ItemRepositoryTest">
+  <component name="RunManager" selected="Spring Boot.ItemServiceApplication">
     <configuration name="ItemRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="item-service.test" />
       <extension name="coverage">
@@ -119,7 +125,8 @@
       <workItem from="1675930624534" duration="527000" />
       <workItem from="1676039321009" duration="106000" />
       <workItem from="1676039430481" duration="507000" />
-      <workItem from="1676039963186" duration="695000" />
+      <workItem from="1676039963186" duration="1254000" />
+      <workItem from="1676314458221" duration="3421000" />
     </task>
     <servers />
   </component>
