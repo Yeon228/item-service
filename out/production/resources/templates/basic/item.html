@@ -17,7 +17,7 @@
   <div>
     <label for="itemId">상품 ID</label>
     <input type="text" id="itemId" name="itemId" class="form-control"
-           value="1" th:value="${item.id}" readonly>
+           value="1" th:value="${item.getId()}" readonly>
   </div> <div>
   <label for="itemName">상품명</label>
   <input type="text" id="itemName" name="itemName" class="form-control"
@@ -36,7 +36,7 @@
     <div class="col">
       <button class="w-100 btn btn-primary btn-lg"
               onclick="location.href='editForm.html'"
-              th:onclick="|location.href='@{basic/items/{itemId}/edit(itemId=${item.id})}'|"
+              th:onclick="|location.href='@{/basic/items/{itemId}/edit(itemId=${item.id})}'|"
               type="button">상품 수정</button>
     </div>
     <div class="col">
