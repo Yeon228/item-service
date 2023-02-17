@@ -21,7 +21,12 @@
         <projects_view>
           <option name="showInheritedTasks" value="false" />
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="item-service" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -123,6 +128,7 @@
       <workItem from="1676039963186" duration="1254000" />
       <workItem from="1676314458221" duration="3784000" />
       <workItem from="1676573236481" duration="3556000" />
+      <workItem from="1676663189298" duration="324000" />
     </task>
     <servers />
   </component>
